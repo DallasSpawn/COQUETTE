@@ -1,0 +1,3 @@
+com\ecodeup\articulos\dao\ArticuloDAO.class
+com\ecodeup\articulos\model\Articulo.class
+com\ecodeup\articulos\model\Conexion.class

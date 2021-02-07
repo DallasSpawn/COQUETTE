@@ -1,0 +1,1 @@
+function alpha(e) { var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?"; for (var i = 0; i < document.formname.fieldname.value.length; i++) { if (iChars.indexOf(document.formname.fieldname.value.charAt(i)) != -1) { alert ("Your username has special characters. \nThese are not allowed.\n Please remove them and try again."); return false; } } 
